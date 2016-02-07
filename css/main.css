@@ -27,3 +27,9 @@
 .header h1 {
 	color: #245756;
 }
+
+.soundcloud {
+	height: 100px;
+	width: 100%;
+	margin-top: 20px;
+}
