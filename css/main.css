@@ -1,4 +1,29 @@
-.title {
-	
-	
+.main-image {
+	background-image: url("../img/group.jpg");
+	min-width: 100%;
+	height: 500px;
+}
+
+.authors {
+	margin-top: 20px;
+}
+
+.header {
+	margin-top:50px;
+}
+
+.center {
+     float: none;
+     margin-left: auto;
+     margin-right: auto;
+}
+
+.featurette-heading {
+	font-size: 22px;
+	padding-bottom: 10px;
+	color: #245756;
+}
+
+.header h1 {
+	color: #245756;
 }
