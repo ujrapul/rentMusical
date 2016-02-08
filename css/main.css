@@ -38,11 +38,6 @@
 	margin-top: 20px;
 }
 
-/*.people-portraits div {*/
-	/*width: 100%;*/
-	/*height: 150px;*/
-/*}*/
-
 .people {
 	width: 100%;
 	height: 150px;
@@ -57,7 +52,3 @@
 .people-container p {
     font-style: italic;
 }
-
-/*.people-container div {
-	overflow: hidden;
-}*/
