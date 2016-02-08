@@ -57,3 +57,7 @@
 .people-container p {
     font-style: italic;
 }
+
+/*.people-container div {
+	overflow: hidden;
+}*/
